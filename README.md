@@ -1,3 +1,3 @@
 # proyecto_prueba
-Biemvenidos!!!
+Bienvenidos!!!
 Esta es una primera prueba tutorial
